@@ -1,0 +1,7 @@
+panda>=3.0.3
+numpy>=2.4.4
+matplotlib>=3.10.9
+scikit-learn>=1.8.0
+catboost>=1.2.10
+tabpfn>=8.0.2
+seaborn>=0.13.2
