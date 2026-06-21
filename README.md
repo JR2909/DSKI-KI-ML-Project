@@ -1,8 +1,9 @@
 # Title
 
-```
-FTR J-R-K29 is one of my two github users. I have no clue why github keeps mixing them up and its a huge security risk, because the user can push to repos where it shouldn't have access
-```
+## FTR J-R-K29 is one of my two github users (with JR2909 beeing the other). 
+## I have no clue why github keeps mixing them up and its a huge security risk, 
+## because the user can push to repos where it shouldn't have access (e.g. the repo for legal.dhbw-asta.de)
+
 
 ## Anforderungen
 ### Problemdefinition
